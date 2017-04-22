@@ -1,10 +1,10 @@
-Hash: c5a6856b43905ae12f17
+Hash: f6485bdfa7e49828e14a
 Time: Xms
   Asset       Size  Chunks             Chunk Names
-   0.js  238 bytes       0  [emitted]  
-   1.js  108 bytes       1  [emitted]  
-   2.js  204 bytes       2  [emitted]  
-main.js    6.18 kB       3  [emitted]  main
+   0.js  288 bytes       0  [emitted]  
+   1.js  158 bytes       1  [emitted]  
+   2.js  254 bytes       2  [emitted]  
+main.js    6.43 kB       3  [emitted]  main
 Entrypoint main = main.js
 chunk    {0} 0.js 54 bytes {3} [rendered]
     [2] (webpack)/test/statsCases/preset-verbose/c.js 54 bytes {0} [depth 1] [built]
